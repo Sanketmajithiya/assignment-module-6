@@ -1,4 +1,4 @@
-//Q.2 . Define a class to represent a bank account. Include the following members:
+//Q.1 . Define a class to represent a bank account. Include the following members:
 
 #include <iostream>
 #include <string>
