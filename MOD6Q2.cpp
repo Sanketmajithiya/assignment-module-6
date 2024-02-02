@@ -1,4 +1,4 @@
-//Q.2 efine a class to represent lecture details. Include the following members and the program should
+//Q.2 define a class to represent lecture details. Include the following members and the program should
 //handle at least details of 5 lecturer.
 //Data members : Name of the lecturer Name of the subject Name of course Number of lecturers
 //Data functions: To assign initial values To add a lecture details To display name and lecture
